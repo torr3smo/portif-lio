@@ -1,27 +1,15 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-  }
-  
+  font-family: "Hind Siliguri", sans-serif;
+  color: white;
+  background: rgb(56, 27, 95);
+  margin: 0px;
+
+}
   header {
-    display: flex;
-    justify-content: space-between;
-    padding: 10px;
-    background-color: #bd2eff;
+      border-bottom: solid 2px rgb(42, 122, 228);
+      padding: 20px;
+      font-size: 32px;
+      color: rgb(42, 122, 228);
+      padding: 20px;
+      font-size: 32px;
   }
-  
-  main {
-    padding: 20px;
-  }
-  
-  #video-list {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  
-  #video-list video {
-    width: 300px;
-    margin: 10px;
-  }
-  
